@@ -223,6 +223,9 @@ Enabled GitHub Pages (main branch)
 
 https://github.com/Hams770/Resilient-Clinical-Outcome-Prediction-from-Noisy-Medical-Records
 
+## Live Demo 
+https://diabetes-readmission-ml-nvzkdxudbqfejnrc3gtsr3.streamlit.app/
+
 ## Conclusion
 
 This project demonstrates how Apache Spark can be used to build scalable and resilient machine learning pipelines for noisy healthcare data.
