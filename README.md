@@ -1,6 +1,6 @@
 # 🌟CHECK OUT OUR WEBSITE!!🌟
 **Click this link:**
-[https://nafeesa-mahek.github.io/BigData-ProjectWebsite/](https://hams770.github.io/Resilient-Clinical-Outcome-Prediction-from-Noisy-Medical-Records/)
+https://nafeesa-mahek.github.io/BigDataProject-WEBSITE/
 
 # Resilient Clinical Outcome Prediction from Noisy Medical Records 🏥💻
 
